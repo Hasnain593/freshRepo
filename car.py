@@ -32,6 +32,8 @@ quit - to quit the game
         print("Sorry I do'nt Understand 101")
 
         print("Sorry I do'nt Understand 101")
+    
+        print("Sorry I do'nt Understand 101")
 
 
 
