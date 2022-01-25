@@ -25,7 +25,7 @@ quit - to quit the game
     elif command == "quit":
         break
     else:
-        print("Sorry I do'nt Understand")
+        print("Sorry I do'nt Understand 101")
 
 
 
