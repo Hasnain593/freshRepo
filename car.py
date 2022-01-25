@@ -26,6 +26,12 @@ quit - to quit the game
         break
     else:
         print("Sorry I do'nt Understand 101")
+        
+        print("Sorry I do'nt Understand 101")
+
+        print("Sorry I do'nt Understand 101")
+
+        print("Sorry I do'nt Understand 101")
 
 
 
